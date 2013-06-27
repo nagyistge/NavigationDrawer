@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationDrawer", "NavigationDrawer\NavigationDrawer.csproj", "{07E0C9F3-9977-434F-A8A8-2458D4B09BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E0C9F3-9977-434F-A8A8-2458D4B09BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E0C9F3-9977-434F-A8A8-2458D4B09BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E0C9F3-9977-434F-A8A8-2458D4B09BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E0C9F3-9977-434F-A8A8-2458D4B09BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NavigationDrawer\NavigationDrawer.csproj
+	EndGlobalSection
+EndGlobal

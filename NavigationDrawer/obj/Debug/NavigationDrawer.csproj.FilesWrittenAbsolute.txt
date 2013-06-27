@@ -1,0 +1,16 @@
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/bin/Debug/NavigationDrawer.dll.mdb
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/bin/Debug/NavigationDrawer.dll
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/bin/Debug/NavigationDrawer.NavigationDrawer.apk
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/android/bin/NavigationDrawer.NavigationDrawer.apk
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/layout/main.xml
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/values/strings.xml
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/drawable/icon.png
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/layout/first.xml
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/layout/second.xml
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/R.cs.flag
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/bin/Debug/NavigationDrawer.NavigationDrawer-Signed.apk
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/uploadflags.txt
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/NavigationDrawer.dll
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/NavigationDrawer.dll.mdb
+/Users/MBPViitru/Projects/NavigationDrawer/NavigationDrawer/obj/Debug/res/layout/list.xml
