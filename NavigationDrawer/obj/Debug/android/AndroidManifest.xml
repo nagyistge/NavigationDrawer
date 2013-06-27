@@ -10,7 +10,7 @@
         <category android:name="mono.android.intent.category.SEPPUKU.NavigationDrawer.NavigationDrawer" />
       </intent-filter>
     </receiver>
-    <activity android:label="NavigationDrawer" android:name="navigationdrawer.navigationdrawer.TrialSplashScreen0d00f3067f0342e38213adf5a27af504" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+    <activity android:label="NavigationDrawer" android:name="navigationdrawer.navigationdrawer.TrialSplashScreen13bc5ac77d1d4a1291a06ef7e70d53f8" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
